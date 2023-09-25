@@ -20,5 +20,5 @@ services:
                    
 networks:
 
-    network-article-magick-dashboard
+    network-article-magick-dashboard:
     
