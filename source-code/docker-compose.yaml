@@ -12,7 +12,7 @@ services:
 
         ports:
 
-            - 44080:80
+            - "44080:80"
                            
         networks:
 
