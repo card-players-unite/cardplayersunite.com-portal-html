@@ -18,7 +18,7 @@ function formatTextFromFirstTextBox(textToFormat) {
 	$.ajax({
 
 		type: "POST",
-		url: "http://desktop.mateomontenegro.online:8080/simple-text-format",
+		url: "https://api.articlemagick.softwareshinobi.online/simple-text-format",
 
 		data: leftSideTextBox,
 
