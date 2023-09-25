@@ -36,7 +36,7 @@ function formatTextFromFirstTextBox() {
 	$.ajax({
 
 		type: "POST",
-		url: "http://desktop.mateomontenegro.online:8080/calculate-text-percentage-difference",
+		url: "https://api.articlemagick.softwareshinobi.online/calculate-text-percentage-difference",
 
 		data: textFromFirstAndSecondTextBox,
 
