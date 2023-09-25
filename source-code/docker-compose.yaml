@@ -13,3 +13,12 @@ services:
         ports:
 
             - 22280:80
+                       
+    networks:
+
+        - network-article-magick-dashboard
+            
+networks:
+
+    network-article-magick-dashboard
+    
