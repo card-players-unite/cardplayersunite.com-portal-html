@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+
+    article-magick-dashboard:
+
+        container_name: article-magick-dashboard
+
+        image: softwareshinobi/article-magick-dashboard:latest
+
+        restart: "always"
+
+        ports:
+
+            - 22280:80

@@ -1,10 +1,10 @@
-###
-### Software Shinobi Cloud Server Controller (Web)
-###
+##
+##
+##
 
 FROM nginx:latest
 
-MAINTAINER Software Shinobi "troy@softwareshinobi.com”
+MAINTAINER Software Shinobi "troy@softwareshinobi.online"
 
 USER root
 
