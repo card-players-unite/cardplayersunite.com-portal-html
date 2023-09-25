@@ -15,9 +15,9 @@ services:
             - "44080:80"
                            
         networks:
-
+        
             - network-article-magick-dashboard
-                
+                   
 networks:
 
     network-article-magick-dashboard
