@@ -1,6 +1,6 @@
 
 repositoryUser="softwareshinobi"
 
-repositoryName="article-magick-dashboard"
+repositoryName="card-players-united-link-portal"
 
 repositoryTag="latest"

@@ -2,11 +2,11 @@ version: '3'
 
 services:
 
-    article-magick-dashboard:
+    card-players-united-link-portal:
 
-        container_name: article-magick-dashboard
+        container_name: card-players-united-link-portal
 
-        image: softwareshinobi/article-magick-dashboard:latest
+        image: softwareshinobi/card-players-united-link-portal:latest
 
         restart: "always"
 
@@ -16,9 +16,9 @@ services:
                            
         networks:
         
-            - network-article-magick-dashboard
+            - network-card-players-united-link-portal
                    
 networks:
 
-    network-article-magick-dashboard:
+    network-card-players-united-link-portal:
     

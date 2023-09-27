@@ -1,0 +1,28 @@
+.done {
+
+    background-color: red;
+    
+    color: #000080; 
+}
+
+.wip {
+
+    color: #000080; 
+
+    background-color: yellow;
+    
+}
+
+.blocked {
+
+    color: #000080;  
+       
+    background-color: yellow;
+    
+}
+
+.notStarted {
+
+
+
+}
